@@ -1,2 +1,2 @@
-# Dog_vs_Cat
+# Dogs_vs_Cats
 Python Project
